@@ -38,5 +38,5 @@ Und nun hast du es Geschafft.
 
 Du hast eine Pull-Request? Öffne eine, und ich werde schnellstmöglich darauf antworten.
 
-- [Eröffne ein Ticket](https://github.com/PhilTec-Philip/Wegbegleiter/issues)
-- [Öffne Pull-Request](https://github.com/PhilTec-Philip/Wegbegleiter/pulls)
+- [Eröffne ein Ticket](https://github.com/PhilTec-Philip/Wegbegleitung/issues)
+- [Öffne Pull-Request](https://github.com/PhilTec-Philip/Wegbegleitung/pulls)
